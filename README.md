@@ -1,1 +1,0 @@
-# microservicios_class
